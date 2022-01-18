@@ -1,0 +1,1 @@
+The point of this repo is to do the "Recipes" challenge that is required by the Odin Project's curriculum. Here I will be creating a webpage for some recipes that will be made purely with HTML and then stylized with CSS. 
